@@ -98,6 +98,7 @@ def regorlog():
     global loginregister
     global loreg
     loreg = str
+    hi = "test"
     loginregister = Tk()
     loginregister.geometry("50x70+600+270")
     loginregister.title("Login System")
